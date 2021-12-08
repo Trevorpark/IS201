@@ -1,0 +1,83 @@
+
+.h1{  
+    font-family:cursive;
+    font-size:small;
+    color:cyan;
+}
+.h2{
+    font-family:Arial, Helvetica, sans-serif;   
+    font-style:oblique;
+    color:blue;
+}
+.ul1{
+    font-weight: bolder;
+    font-style:italic;
+}
+.background{
+    background-color: black;
+    opacity: .9;
+}
+.paragraph1{
+    font-weight:bolder;
+    outline-style:solid;
+    color:white;
+    outline-color:indigo;
+    font-family:monospace;
+}
+.paragraph2{
+    font-weight:bolder;
+    outline-style:solid;
+    color:white;
+    outline-color:dodgerblue;
+    font-family: monospace;
+}
+.paragraph3{
+    font-weight:bolder;
+    outline-style:solid;
+    color:white;
+    outline-color: red;
+    font-family: monospace;
+}
+.footer{
+    color:white;
+    font-weight: bolder;
+}
+.footer2{
+    color:green;
+    font-weight:bolder;
+    font-size: small;
+}
+.centerimages {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.centerwedpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.headsub{
+    font-size:small;
+    font-family:fantasy;
+    color:red;
+}
+.textcenter{
+    text-align:center;
+}
+.textcenter2{
+    color:white;
+    font-weight: bolder;
+    text-align:center;
+}
+.textcenter3{
+    color:royalblue;
+    font-weight: bolder;
+    text-align: center;
+}
+.footer3{
+    color:black;
+    font-weight:bolder;
+}

@@ -1,0 +1,42 @@
+.header{    
+    width:95vw;
+    height:50px;
+}
+.graph{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+body{
+    background-image: url('https://torange.biz/photofxnew/208/HD/hard-light-black-white-blur-frame-208329.jpg') ;
+}
+.links{
+    color:black;
+    text-align:right;
+    font-size:medium;
+    font-family: cursive;
+}
+.h1{
+    font-size:35px;
+}
+
+.float_right{
+    float:right;
+}
+.caption{
+    font-weight:bolder;
+    font-style: italic;
+    text-align: center;
+    font-size:x-large;
+}
+.footer{
+    width: 95vw;
+    height: 100px;
+    text-align: center;
+}
+.border{
+    outline-style:groove;
+    outline-width:thick;
+    outline-color: blue;
+}
